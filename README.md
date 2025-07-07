@@ -1,6 +1,6 @@
 # 👋 Zdravo! Ja sam Dragan
 
-🎓 Student softverskog inženjerstva
+🎓 Student softverskog inženjerstva 
 💻 Volim programiranje u Javi, Pythonu i C++  
 🌐 Interesuju me data analysis, machine learning, mreže, distribuirani sistemi i backend razvoj  
 
