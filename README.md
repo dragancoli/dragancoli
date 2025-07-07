@@ -2,17 +2,17 @@
 
 🎓 Student računarskih nauka  
 💻 Volim programiranje u Javi, Pythonu i C++  
-🌐 Interesuju me machine learning, mreže, distribuirani sistemi i backend razvoj  
+🌐 Interesuju me data analysis, machine learning, mreže, distribuirani sistemi i backend razvoj  
 
 📫 Kako me kontaktirati:  
 - Email: colicd85@email.com  
-- LinkedIn: [moj profil](https://www.linkedin.com/in/dragancolic)
+- LinkedIn: [dragancolic](https://www.linkedin.com/in/dragancolic)
 
 ---
 
 ### ⚡ Trenutno radim na:
 - Simulaciji mrežnih protokola u Javi
-- Web aplikaciji za evidenciju ispita
+- Semantickoj analizi
 
 ### 🛠️ Tehnologije i jezici koje koristim:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
