@@ -11,8 +11,7 @@
 ---
 
 ### ⚡ Trenutno radim na:
-- Simulaciji mrežnih protokola u Javi
-- Semantickoj analizi
+- Full-stack blog aplikacija
 
 ### 🛠️ Tehnologije i jezici koje koristim:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
