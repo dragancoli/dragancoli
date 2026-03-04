@@ -12,7 +12,7 @@
 
 ### ⚡ Currently working on:
 - Smart Code Context Retriever
-- Full-stack competition application
+- eLektrijada application
 
 ### 🛠️ Technologies and languages I use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +23,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragancoli&layout=compact&theme=tokyonight)
